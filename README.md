@@ -35,11 +35,11 @@ This system matches persons with similar interests and provides recommendations 
 
 ## <b style="color:white;">Tech Stack</b>
 
-> Python<br />
-> Pandas<br />
-> Numpy<br />
-> Matplotlib and Seaborn<br />
-> Sklearn<br />
+- Python
+- Pandas
+- Numpy
+- Matplotlib and Seaborn
+- Sklearn<br
 
 ## <b style="color:white;">Resources</b>
 
