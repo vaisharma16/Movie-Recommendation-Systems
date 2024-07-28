@@ -39,7 +39,7 @@ This system matches persons with similar interests and provides recommendations 
 - Pandas
 - Numpy
 - Matplotlib and Seaborn
-- Sklearn<br
+- Sklearn
 
 ## <b style="color:white;">Resources</b>
 
